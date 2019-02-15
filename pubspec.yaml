@@ -2,7 +2,7 @@ name: flutter_responsive_screen
 description: A new way to design by porcentage the size of objects
 version: 1.0.0
 author: Misael Riojas Montenegro <misaelriojasmontenegro@gmail.com>
-homepage:
+homepage: https://github.com/misaelriojasm/FlutterResponsiveScreen
 
 environment:
   sdk: ">=2.0.0-dev.68.0 <3.0.0"
