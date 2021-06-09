@@ -6,11 +6,11 @@ class Screen{
 
   Screen(this.screenSize);
 
-  double wp(percentage) {
+  double? wp(percentage) {
     return percentage / 100 * screenSize.width;
   }
 
-  double hp(percentage) {
+  double? hp(percentage) {
     return percentage / 100 * screenSize.height;
   }
 }
